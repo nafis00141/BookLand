@@ -1,15 +1,14 @@
-# BookLand-
-A complete C# project
+# BookLand
+An Online BookStore
 
-A complete C# project
 
-Notes : all our database class in App_Code
+Notes : all our database class are in App_Code
 
 Instruction to open project :
 
 open visual studio
-file -> open web site -> GadgetMart
-create database name gmart in XAMPP localhost and import gmart-7.sql from the project directory (otherwise it won't run).
+file -> open web site -> BookLand
+create database name gmart in XAMPP localhost and import bookland.sql from the project directory (otherwise it won't run).
 Project Requirement:
 
 Language : C#
