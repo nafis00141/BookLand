@@ -38,7 +38,8 @@ Login info :
 ![alt text](https://github.com/nafis00141/BookLand/blob/master/Dataflow%20Diagram/level2%20diagram%20communication.PNG)
 
 # ERD Diagram
-https://github.com/nafis00141/BookLand/blob/master/ERD%20Diagram/ERD%20of%20BookLand.pdf
+
+![alt text](https://github.com/nafis00141/BookLand/blob/master/ERD%20Diagram/ERD.PNG)
 
 ## UML Diagram
 ![alt text](https://github.com/nafis00141/BookLand/blob/master/UML%20%26%20CLass%20Diagram/uml%20diagram.jpg)
