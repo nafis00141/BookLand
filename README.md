@@ -23,24 +23,27 @@ Login info :
 
 2.As a user->  username : nafis014 password : 123456
 
-##Dataflow Diagram
-#Context Level 
+# Dataflow Diagram
+
+## Context Level 
+
 ![alt text](https://github.com/nafis00141/BookLand/blob/master/Dataflow%20Diagram/context%20level%20diagram.PNG)
-#Level 1
+## Level 1
+
 ![alt text](https://github.com/nafis00141/BookLand/blob/master/Dataflow%20Diagram/level%201%20diagram%20part1.png)
 ![alt text](https://github.com/nafis00141/BookLand/blob/master/Dataflow%20Diagram/level%201%20diagram%20part%202.png)
-#Level 2
+## Level 2
 ![alt text](https://github.com/nafis00141/BookLand/blob/master/Dataflow%20Diagram/level%202%20diagram%20books.png)
 ![alt text](https://github.com/nafis00141/BookLand/blob/master/Dataflow%20Diagram/level%202%20signup.PNG)
 ![alt text](https://github.com/nafis00141/BookLand/blob/master/Dataflow%20Diagram/level2%20diagram%20communication.PNG)
 
-##ERD Diagram
+# ERD Diagram
 https://github.com/nafis00141/BookLand/blob/master/ERD%20Diagram/ERD%20of%20BookLand.pdf
 
-##UML Diagram
+## UML Diagram
 ![alt text](https://github.com/nafis00141/BookLand/blob/master/UML%20%26%20CLass%20Diagram/uml%20diagram.jpg)
-##Class Diagram
+## Class Diagram
 ![alt text](https://github.com/nafis00141/BookLand/blob/master/UML%20%26%20CLass%20Diagram/class%20diagram.png)
 
-##Gantt Chart
+## Gantt Chart
 ![alt text](https://github.com/nafis00141/BookLand/blob/master/Gantt%20Chart/Gantt%20Chart.png)
